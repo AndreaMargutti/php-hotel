@@ -52,6 +52,9 @@
 </head>
 
 <body>
+    <header class="container text-center my-3">
+        <h1>PHP - Hotels</h1>
+    </header>
     <main>
         <table class="table">
             <thead>
